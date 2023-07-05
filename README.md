@@ -96,7 +96,7 @@ This command will start a container named my-rabbitmq-container based on the Rab
 
 5. Access RabbitMQ: By default, RabbitMQ's management interface can be accessed at http://localhost:15672/. You can use this interface to manage and configure RabbitMQ. (Default userName/Pass : guest/guest)
 
-## How to install COsmos DB emulator
+## How to install Cosmos DB emulator
 
 1. Download the latest release: [Here](https://learn.microsoft.com/en-us/azure/cosmos-db/local-emulator?tabs=ssl-netstd21)
 
