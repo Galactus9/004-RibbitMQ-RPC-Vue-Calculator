@@ -58,7 +58,7 @@ Open your web browser and visit http://localhost:5173/ to access the calculator 
 
 ## How to get access to RabitMQ
 
-###Option 2: Downloading and installing RabbitMQ
+### Option 2: Downloading and installing RabbitMQ
 
 -Visit the RabbitMQ website: Go to the RabbitMQ website (https://www.rabbitmq.com/) and navigate to the Downloads page.
 
