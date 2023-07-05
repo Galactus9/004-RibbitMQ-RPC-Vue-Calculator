@@ -100,6 +100,6 @@ This command will start a container named my-rabbitmq-container based on the Rab
 
 1. Download the latest release: [Here](https://learn.microsoft.com/en-us/azure/cosmos-db/local-emulator?tabs=ssl-netstd21)
 
-2. Run the installer: Once the download is com
+2. Run the installer: Once the download is complete
 
 3. Start the Cosmos DB Emulator
