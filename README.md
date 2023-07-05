@@ -82,7 +82,10 @@ This command will start a container named my-rabbitmq-container based on the Rab
 4. RabbitMQ is now running inside the Docker container. You can access it using the same configuration as a locally installed RabbitMQ instance.
 
 
+
+
 ### Option 2: Downloading and installing RabbitMQ
+
 
 -Visit the RabbitMQ website: Go to the RabbitMQ website (https://www.rabbitmq.com/) and navigate to the Downloads page.
 
