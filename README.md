@@ -49,6 +49,8 @@ Follow the steps below to get the project up and running on your local machine:
   
    ```bash
    npm install
+
+
    
 - Start the frontend application:
   
