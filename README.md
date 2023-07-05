@@ -95,3 +95,4 @@ This command will start a container named my-rabbitmq-container based on the Rab
 -Access RabbitMQ: By default, RabbitMQ's management interface can be accessed at http://localhost:15672/. You can use this interface to manage and configure RabbitMQ.
 
 -That's it! You now have a Docker image of RabbitMQ or have downloaded and installed RabbitMQ on your machine. You can proceed with the next steps of your project, such as configuring and using RabbitMQ for your RPC Calculator applicatio
+
