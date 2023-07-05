@@ -64,14 +64,14 @@ Open your web browser and visit http://localhost:5173/ to access the calculator 
 1. Install Docker: If you haven't already, install Docker on your machine.
 
 2. Pull the RabbitMQ image: Open a terminal or command prompt and run the following command to pull the RabbitMQ image from Docker Hub:
- ```bash
+   ```bash
 docker pull rabbitmq:latest
 
 This command will download the latest version of the RabbitMQ image to your local machine.
 
 3. Run the RabbitMQ container: Once the image is downloaded, you can run a RabbitMQ container using the following command:
 
- ```bash
+   ```bash
 docker run -d --name my-rabbitmq-container -p 5672:5672 -p 15672:15672 rabbitmq:latest
 
 This command will start a container named my-rabbitmq-container based on the RabbitMQ image, mapping the RabbitMQ ports (5672 for AMQP and 15672 for the management interface) to the corresponding ports on your machine.
