@@ -55,3 +55,19 @@ Follow the steps below to get the project up and running on your local machine:
 5. Access the application:
 
 Open your web browser and visit http://localhost:5173/ to access the calculator interface.
+
+## How to get access to RabitMQ
+
+###Option 2: Downloading and installing RabbitMQ
+
+-Visit the RabbitMQ website: Go to the RabbitMQ website (https://www.rabbitmq.com/) and navigate to the Downloads page.
+
+-Select your operating system: Choose the appropriate version of RabbitMQ for your operating system and download the installer.
+
+-Run the installer: Once the installer is downloaded, run it and follow the installation instructions provided by the RabbitMQ installer.
+
+-Start RabbitMQ: After the installation is complete, RabbitMQ should be running automatically. You can verify this by checking if the RabbitMQ service is running in the background or accessing the RabbitMQ management interface using a web browser.
+
+-Access RabbitMQ: By default, RabbitMQ's management interface can be accessed at http://localhost:15672/. You can use this interface to manage and configure RabbitMQ.
+
+-That's it! You now have a Docker image of RabbitMQ or have downloaded and installed RabbitMQ on your machine. You can proceed with the next steps of your project, such as configuring and using RabbitMQ for your RPC Calculator applicatio
