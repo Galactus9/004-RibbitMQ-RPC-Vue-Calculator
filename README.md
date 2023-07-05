@@ -46,9 +46,12 @@ Follow the steps below to get the project up and running on your local machine:
 - Navigate to the frontend directory.
 
 - Install dependencies by running:
+- 
    ```bash
    npm install
+   
 - Start the frontend application:
+- 
    ```bash
    npm run dev
    
