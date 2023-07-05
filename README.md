@@ -79,8 +79,7 @@ This command will download the latest version of the RabbitMQ image to your loca
 
 This command will start a container named my-rabbitmq-container based on the RabbitMQ image, mapping the RabbitMQ ports (5672 for AMQP and 15672 for the       management interface) to the corresponding ports on your machine.
 
-4. RabbitMQ is now running inside the Docker container. You can access it using the same configuration as a locally installed RabbitMQ instance.
-
+4. Access RabbitMQ: By default, RabbitMQ's management interface can be accessed at http://localhost:15672/. You can use this interface to manage and configure RabbitMQ.(Default userName/Pass : guest/guest)
 
 </br>
 
@@ -95,7 +94,7 @@ This command will start a container named my-rabbitmq-container based on the Rab
 
 4. Start RabbitMQ: After the installation is complete, RabbitMQ should be running automatically. You can verify this by checking if the RabbitMQ service is running in the background or accessing the RabbitMQ management interface using a web browser.
 
-5. Access RabbitMQ: By default, RabbitMQ's management interface can be accessed at http://localhost:15672/. You can use this interface to manage and configure RabbitMQ.
+5. Access RabbitMQ: By default, RabbitMQ's management interface can be accessed at http://localhost:15672/. You can use this interface to manage and configure RabbitMQ. (Default userName/Pass : guest/guest)
 
-6. That's it! You now have a Docker image of RabbitMQ or have downloaded and installed RabbitMQ on your machine. You can proceed with the next steps of your project, such as configuring and using RabbitMQ for your RPC Calculator applicatio
+
 
