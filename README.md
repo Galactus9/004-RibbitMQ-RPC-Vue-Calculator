@@ -40,7 +40,7 @@ Follow the steps below to get the project up and running on your local machine:
 - Build the solution to restore dependencies.
 - Run the RPC-Client project to start the client.
 
-- 
+  
 4. Set up the frontend:
 
 - Navigate to the frontend directory.
