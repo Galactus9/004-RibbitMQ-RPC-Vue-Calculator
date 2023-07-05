@@ -1,0 +1,12 @@
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Calculator-Vue\ModelLibrary\ModelLibrary\bin\Debug\net6.0\ModelLibrary.deps.json
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Calculator-Vue\ModelLibrary\ModelLibrary\bin\Debug\net6.0\ModelLibrary.dll
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Calculator-Vue\ModelLibrary\ModelLibrary\bin\Debug\net6.0\ModelLibrary.pdb
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Calculator-Vue\ModelLibrary\ModelLibrary\obj\Debug\net6.0\ModelLibrary.csproj.AssemblyReference.cache
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Calculator-Vue\ModelLibrary\ModelLibrary\obj\Debug\net6.0\ModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Calculator-Vue\ModelLibrary\ModelLibrary\obj\Debug\net6.0\ModelLibrary.AssemblyInfoInputs.cache
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Calculator-Vue\ModelLibrary\ModelLibrary\obj\Debug\net6.0\ModelLibrary.AssemblyInfo.cs
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Calculator-Vue\ModelLibrary\ModelLibrary\obj\Debug\net6.0\ModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Calculator-Vue\ModelLibrary\ModelLibrary\obj\Debug\net6.0\ModelLibrary.dll
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Calculator-Vue\ModelLibrary\ModelLibrary\obj\Debug\net6.0\refint\ModelLibrary.dll
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Calculator-Vue\ModelLibrary\ModelLibrary\obj\Debug\net6.0\ModelLibrary.pdb
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Calculator-Vue\ModelLibrary\ModelLibrary\obj\Debug\net6.0\ref\ModelLibrary.dll

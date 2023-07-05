@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IO54JFosEXryd+gRUMr/2EPotuUZ7/m9FK+odOV/u2oz48vJPDC4UCRclntUOqfHkRdcuqlasvRgr4c3jnjWoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Calculator-Vue\\RPC-Client\\RpcClientLib\\RpcClientLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\neoklis.varsamos\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\neoklis.varsamos\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\neoklis.varsamos\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
