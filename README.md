@@ -98,9 +98,8 @@ This command will start a container named my-rabbitmq-container based on the Rab
 
 ## How to install COsmos DB emulator
 
-1. Download the latest release: [On the repository page, click on the "Releases" tab. You'll find a list of available releases. Look for the latest release and click on it.](https://learn.microsoft.com/en-us/azure/cosmos-db/local-emulator?tabs=ssl-netstd21)
+1. Download the latest release: [Here](https://learn.microsoft.com/en-us/azure/cosmos-db/local-emulator?tabs=ssl-netstd21)
 
-Choose the appropriate installer: In the release page, you'll find different installers for different operating systems. Select the installer for your operating system (Windows, macOS, or Linux) and click on the download link.
+2. Run the installer: Once the download is com
 
-Run the installer: Once the download is com
-
+3. Start the Cosmos DB Emulator
