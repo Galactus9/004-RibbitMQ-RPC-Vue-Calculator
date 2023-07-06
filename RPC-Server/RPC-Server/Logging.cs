@@ -16,7 +16,7 @@ namespace RPC_Server
         {
             _context = context;
         }
-        internal async Task Log(MessageModel mModel, float? result)
+        internal async Task<LoggingModel> Log(MessageModel mModel, float? result)
         {
             var log = new LoggingModel
             {
@@ -31,6 +31,7 @@ namespace RPC_Server
                 Action = mModel.Task
             };
             await _context.logContainer.CreateItemAsync(log);
+            return log;
         }
     }
 }

@@ -59,10 +59,10 @@ namespace RPC_Server
             // Perform the calculation based on the received model.
             float? result = Calculator.Calculate(model);
 
-            log.Log(model, result).GetAwaiter().GetResult();
+            var loggModel = log.Log(model, result).GetAwaiter().GetResult();
 
             // Serialize the response and publish it to the reply-to queue.
-            var response = JsonConvert.SerializeObject(result);
+            var response = JsonConvert.SerializeObject(loggModel);
             var responseBody = Encoding.UTF8.GetBytes(response);
             _channel.BasicPublish(exchange: "", routingKey: replyProps.ReplyTo, basicProperties: replyProps, body: responseBody);
 
