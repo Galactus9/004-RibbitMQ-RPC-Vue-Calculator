@@ -10,3 +10,15 @@ C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Calculator-Vue\RPC-Client\Rpc
 C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Calculator-Vue\RPC-Client\RpcClientLib\obj\Debug\net6.0\refint\RpcClientLib.dll
 C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Calculator-Vue\RPC-Client\RpcClientLib\obj\Debug\net6.0\RpcClientLib.pdb
 C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Calculator-Vue\RPC-Client\RpcClientLib\obj\Debug\net6.0\ref\RpcClientLib.dll
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Vue-Calculator\RPC-Client\RpcClientLib\bin\Debug\net6.0\RpcClientLib.deps.json
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Vue-Calculator\RPC-Client\RpcClientLib\bin\Debug\net6.0\RpcClientLib.dll
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Vue-Calculator\RPC-Client\RpcClientLib\bin\Debug\net6.0\RpcClientLib.pdb
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Vue-Calculator\RPC-Client\RpcClientLib\obj\Debug\net6.0\RpcClientLib.csproj.AssemblyReference.cache
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Vue-Calculator\RPC-Client\RpcClientLib\obj\Debug\net6.0\RpcClientLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Vue-Calculator\RPC-Client\RpcClientLib\obj\Debug\net6.0\RpcClientLib.AssemblyInfoInputs.cache
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Vue-Calculator\RPC-Client\RpcClientLib\obj\Debug\net6.0\RpcClientLib.AssemblyInfo.cs
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Vue-Calculator\RPC-Client\RpcClientLib\obj\Debug\net6.0\RpcClientLib.csproj.CoreCompileInputs.cache
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Vue-Calculator\RPC-Client\RpcClientLib\obj\Debug\net6.0\RpcClientLib.dll
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Vue-Calculator\RPC-Client\RpcClientLib\obj\Debug\net6.0\refint\RpcClientLib.dll
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Vue-Calculator\RPC-Client\RpcClientLib\obj\Debug\net6.0\RpcClientLib.pdb
+C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Vue-Calculator\RPC-Client\RpcClientLib\obj\Debug\net6.0\ref\RpcClientLib.dll

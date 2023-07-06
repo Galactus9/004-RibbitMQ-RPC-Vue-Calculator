@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fm10vEC7o2J2gjLckYIKP6heCjYGt03E8DXP+LDpi2KOlgJz7y9YCvSQiPpVakA0L8WqULMy09kbCpZMQogpQQ==",
+  "dgSpecHash": "IfM9z/y24zAUWV/EUrMiONVDsV2Ij/JlB/TXbhfkPKAY5lLwguDkPu50FluLD/HybA40C5wqlRle1wGj84C+TA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Calculator-Vue\\RPC-Client\\RPC-Client\\RPC-Client.csproj",
+  "projectFilePath": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RPC-Client\\RPC-Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\neoklis.varsamos\\.nuget\\packages\\azure.core\\1.19.0\\azure.core.1.19.0.nupkg.sha512",
     "C:\\Users\\neoklis.varsamos\\.nuget\\packages\\microsoft.azure.cosmos\\3.35.1\\microsoft.azure.cosmos.3.35.1.nupkg.sha512",

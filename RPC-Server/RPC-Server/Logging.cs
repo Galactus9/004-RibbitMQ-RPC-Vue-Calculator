@@ -25,6 +25,8 @@ namespace RPC_Server
                 UserName = mModel.UserName,
                 DateOfLog = DateTime.Now,
                 Duration = (DateTime.Now - mModel.intialTime).TotalMilliseconds,
+                Number1 = mModel.Number1,
+                Number2 = mModel.Number2,
                 Result = result,
                 Action = mModel.Task
             };

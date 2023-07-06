@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DbContext
-build_property.ProjectDir = C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Calculator-Vue\DbContext\DbContext\
+build_property.ProjectDir = C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Vue-Calculator\DbContext\DbContext\
