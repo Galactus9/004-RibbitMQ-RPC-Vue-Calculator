@@ -30,6 +30,8 @@
             <tr>
               <th>User Name</th>
               <th>Duration in ms</th>
+              <th>Number 1</th>
+              <th>Number 2</th>
               <th>Result</th>
               <th>Ip</th>
             </tr>
@@ -38,6 +40,8 @@
             <tr v-for="(row, index) in result" :key="index">
               <td>{{ row.userName }}</td>
               <td>{{ row.duration }}</td>
+              <td>{{ row.number1 }}</td>
+              <td>{{ row.number2 }}</td>
               <td>{{ row.result }}</td>
               <td>{{ row.ip }}</td>
             </tr>
