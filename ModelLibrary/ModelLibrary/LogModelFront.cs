@@ -10,6 +10,8 @@ namespace ModelLibrary
     {
         public string UserName { get; set; }
         public double Duration { get; set; }
+        public float? Number1 { get; set; }
+        public float? Number2 { get; set; }
         public float? Result { get; set; }
         public string Ip { get; set; }
     }

@@ -19,6 +19,10 @@ namespace ModelLibrary
         public string? IP { get; set; }
         [JsonProperty("duration")]
         public double Duration { get; set; }
+        [JsonProperty("number1")]
+        public float? Number1 { get; set; }
+        [JsonProperty("number2")]
+        public float? Number2 { get; set; }
         [JsonProperty("result")]
         public float? Result { get; set; }
         [JsonProperty("action")]
