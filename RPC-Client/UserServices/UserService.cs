@@ -43,7 +43,7 @@ namespace UserServices
 
                 if (result.Password != user.Password)
                 {
-                    throw new Exception("Incorect Password");
+                    return false;
                 }
                 else
                 {
