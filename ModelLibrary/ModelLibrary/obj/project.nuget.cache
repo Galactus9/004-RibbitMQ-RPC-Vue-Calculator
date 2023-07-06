@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TBxCTdPRaG9OU6sBdxCPEgRN6fOMHg9ALsP6hFdoVEood1T/LaAc2EBTquKHuTlMEHf2U9g5PM43Ri458FAzzA==",
+  "dgSpecHash": "ZOiZQY34lLuWnu3xF/suFxygmJyqUdspsZW3Y2I9C9byXaRa/0aBpXy1PNMOs48AiXLGQhLJKTfm49nAiKqdZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Calculator-Vue\\ModelLibrary\\ModelLibrary\\ModelLibrary.csproj",
+  "projectFilePath": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\ModelLibrary\\ModelLibrary\\ModelLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\neoklis.varsamos\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
