@@ -11,9 +11,11 @@ namespace RPC_Client.Controllers
     public class CalculatorController : ControllerBase
     {
         private readonly IUserService _userService;
-        public CalculatorController(IUserService userService)
+        private readonly IRpcClient _rpcClient;
+        public CalculatorController(IUserService userService, IRpcClient rpcClient)
         {
             _userService = userService;
+            _rpcClient = rpcClient;
         }
 
         [HttpPost]
@@ -35,24 +37,24 @@ namespace RPC_Client.Controllers
         [Route("[action]")]
         public async Task<ActionResult> Calculator(TestModel model)
         {
-            var ipv4Address = HttpContext.Connection.RemoteIpAddress.MapToIPv4().ToString();
+            try
+            {
+                var ipv4Address = HttpContext.Connection.RemoteIpAddress.MapToIPv4().ToString();
 
-            var messageData = new MessageModel
-            {
-                UserName = model.userName,
-                Ip = ipv4Address,
-                Number1 = model.Number1,
-                Number2 = model.Number2,
-                Task = model.Task,
-                intialTime = DateTime.Now
-            };
-            var _rpcClient = new RpcClient();
-            var response = await _rpcClient.SendAsync(messageData);
-            if (response != null)
-            {
-                return Ok(await _userService.LogData(model.userName));
+                var messageData = await _userService.CreateMessageModel(model, ipv4Address);
+
+                var response = await _rpcClient.SendAsync(messageData);
+
+                //var frontModel = _userService.CreateFrontModel(response);
+
+                return Ok(response);
             }
-            return BadRequest();
+            catch (Exception)
+            {
+
+                return BadRequest();
+            }
+
         }
     }
 }

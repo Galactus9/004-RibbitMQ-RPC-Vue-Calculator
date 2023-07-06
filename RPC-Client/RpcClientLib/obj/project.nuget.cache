@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4Plm201sxnB5+8Y02MTnnCP9y2nxmCxxjloPAMU4MQrBFthXBnOYWOPR8U21oqbGyzM3HgN/zdYlfPHquK9jIg==",
+  "dgSpecHash": "1bksKtAf4FNJbxyJMUoo55KG8Xch+Zw837uP8EbzcniUeIMqsZwpVMEzy230CXvKaBKpZ+1or9F2xhwUL8sIYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RpcClientLib\\RpcClientLib.csproj",
+  "projectFilePath": "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RpcClientLib\\RpcClientLib.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\neoklis.varsamos\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
-    "C:\\Users\\neoklis.varsamos\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
-    "C:\\Users\\neoklis.varsamos\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+    "C:\\Users\\neo\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\neo\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\neo\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

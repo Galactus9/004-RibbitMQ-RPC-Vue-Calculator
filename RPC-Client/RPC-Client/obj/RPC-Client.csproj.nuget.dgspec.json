@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RPC-Client\\RPC-Client.csproj": {}
+    "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RPC-Client\\RPC-Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\DbContext\\DbContext\\DbContext.csproj": {
+    "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\DbContext\\DbContext\\DbContext.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\DbContext\\DbContext\\DbContext.csproj",
+        "projectUniqueName": "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\DbContext\\DbContext\\DbContext.csproj",
         "projectName": "DbContext",
-        "projectPath": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\DbContext\\DbContext\\DbContext.csproj",
-        "packagesPath": "C:\\Users\\neoklis.varsamos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\DbContext\\DbContext\\obj\\",
+        "projectPath": "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\DbContext\\DbContext\\DbContext.csproj",
+        "packagesPath": "C:\\Users\\neo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\DbContext\\DbContext\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\neoklis.varsamos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\neo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,25 +61,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\ModelLibrary\\ModelLibrary\\ModelLibrary.csproj": {
+    "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\ModelLibrary\\ModelLibrary\\ModelLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\ModelLibrary\\ModelLibrary\\ModelLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\ModelLibrary\\ModelLibrary\\ModelLibrary.csproj",
         "projectName": "ModelLibrary",
-        "projectPath": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\ModelLibrary\\ModelLibrary\\ModelLibrary.csproj",
-        "packagesPath": "C:\\Users\\neoklis.varsamos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\ModelLibrary\\ModelLibrary\\obj\\",
+        "projectPath": "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\ModelLibrary\\ModelLibrary\\ModelLibrary.csproj",
+        "packagesPath": "C:\\Users\\neo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\ModelLibrary\\ModelLibrary\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\neoklis.varsamos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\neo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -92,7 +83,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -132,25 +122,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RPC-Client\\RPC-Client.csproj": {
+    "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RPC-Client\\RPC-Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RPC-Client\\RPC-Client.csproj",
+        "projectUniqueName": "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RPC-Client\\RPC-Client.csproj",
         "projectName": "RPC-Client",
-        "projectPath": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RPC-Client\\RPC-Client.csproj",
-        "packagesPath": "C:\\Users\\neoklis.varsamos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RPC-Client\\obj\\",
+        "projectPath": "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RPC-Client\\RPC-Client.csproj",
+        "packagesPath": "C:\\Users\\neo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RPC-Client\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\neoklis.varsamos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\neo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -158,24 +144,23 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\DbContext\\DbContext\\DbContext.csproj": {
-                "projectPath": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\DbContext\\DbContext\\DbContext.csproj"
+              "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\DbContext\\DbContext\\DbContext.csproj": {
+                "projectPath": "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\DbContext\\DbContext\\DbContext.csproj"
               },
-              "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\ModelLibrary\\ModelLibrary\\ModelLibrary.csproj": {
-                "projectPath": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\ModelLibrary\\ModelLibrary\\ModelLibrary.csproj"
+              "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\ModelLibrary\\ModelLibrary\\ModelLibrary.csproj": {
+                "projectPath": "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\ModelLibrary\\ModelLibrary\\ModelLibrary.csproj"
               },
-              "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RpcClientLib\\RpcClientLib.csproj": {
-                "projectPath": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RpcClientLib\\RpcClientLib.csproj"
+              "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RpcClientLib\\RpcClientLib.csproj": {
+                "projectPath": "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RpcClientLib\\RpcClientLib.csproj"
               },
-              "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\UserServices\\UserServices.csproj": {
-                "projectPath": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\UserServices\\UserServices.csproj"
+              "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\UserServices\\UserServices.csproj": {
+                "projectPath": "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\UserServices\\UserServices.csproj"
               }
             }
           }
@@ -214,25 +199,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RpcClientLib\\RpcClientLib.csproj": {
+    "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RpcClientLib\\RpcClientLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RpcClientLib\\RpcClientLib.csproj",
+        "projectUniqueName": "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RpcClientLib\\RpcClientLib.csproj",
         "projectName": "RpcClientLib",
-        "projectPath": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RpcClientLib\\RpcClientLib.csproj",
-        "packagesPath": "C:\\Users\\neoklis.varsamos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RpcClientLib\\obj\\",
+        "projectPath": "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RpcClientLib\\RpcClientLib.csproj",
+        "packagesPath": "C:\\Users\\neo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\RpcClientLib\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\neoklis.varsamos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\neo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -240,7 +221,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -280,25 +260,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\UserServices\\UserServices.csproj": {
+    "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\UserServices\\UserServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\UserServices\\UserServices.csproj",
+        "projectUniqueName": "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\UserServices\\UserServices.csproj",
         "projectName": "UserServices",
-        "projectPath": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\UserServices\\UserServices.csproj",
-        "packagesPath": "C:\\Users\\neoklis.varsamos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\UserServices\\obj\\",
+        "projectPath": "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\UserServices\\UserServices.csproj",
+        "packagesPath": "C:\\Users\\neo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\RPC-Client\\UserServices\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\neoklis.varsamos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\neo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -306,18 +282,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\DbContext\\DbContext\\DbContext.csproj": {
-                "projectPath": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\DbContext\\DbContext\\DbContext.csproj"
+              "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\DbContext\\DbContext\\DbContext.csproj": {
+                "projectPath": "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\DbContext\\DbContext\\DbContext.csproj"
               },
-              "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\ModelLibrary\\ModelLibrary\\ModelLibrary.csproj": {
-                "projectPath": "C:\\Users\\neoklis.varsamos\\Desktop\\004-RibbitMQ-RPC-Vue-Calculator\\ModelLibrary\\ModelLibrary\\ModelLibrary.csproj"
+              "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\ModelLibrary\\ModelLibrary\\ModelLibrary.csproj": {
+                "projectPath": "C:\\Users\\neo\\source\\repos\\004-RibbitMQ-RPC-Vue-Calculator\\ModelLibrary\\ModelLibrary\\ModelLibrary.csproj"
               }
             }
           }
@@ -347,7 +322,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

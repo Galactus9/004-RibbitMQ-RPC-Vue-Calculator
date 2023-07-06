@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace RpcClientLib
 {
-    public class RpcClient : IDisposable
+    public class RpcClient : IDisposable, IRpcClient
     {
         private IConnection _connection;
         private IModel _channel;
@@ -43,6 +43,7 @@ namespace RpcClientLib
         {
             var body = args.Body.ToArray();
             var message = Encoding.UTF8.GetString(body);
+
 
             // Retrieve the task completion source associated with the received response.
             if (_activeTaskQueue.TryRemove(args.BasicProperties.CorrelationId, out var taskCompletionSource))

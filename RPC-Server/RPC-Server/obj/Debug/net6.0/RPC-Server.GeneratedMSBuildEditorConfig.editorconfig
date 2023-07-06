@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RPC_Server
-build_property.ProjectDir = C:\Users\neoklis.varsamos\Desktop\004-RibbitMQ-RPC-Vue-Calculator\RPC-Server\RPC-Server\
+build_property.ProjectDir = C:\Users\neo\Source\Repos\004-RibbitMQ-RPC-Vue-Calculator\RPC-Server\RPC-Server\

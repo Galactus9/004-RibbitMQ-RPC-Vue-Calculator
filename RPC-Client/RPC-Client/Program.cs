@@ -1,4 +1,5 @@
 using DbContext;
+using RpcClientLib;
 using UserServices;
 
 namespace RPC_Client
@@ -27,6 +28,7 @@ namespace RPC_Client
 
             builder.Services.AddScoped<ICosmosContext, CosmosContext>();
             builder.Services.AddScoped<IUserService, UserService>();
+            builder.Services.AddScoped<IRpcClient, RpcClient>();
             //builder.Services.AddScoped(RpcClient);
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
